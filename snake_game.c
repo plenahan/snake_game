@@ -24,6 +24,8 @@ void game_run(){
 	scanw("%s", str);
        	mvprintw(10, 10, "%s", str);
 	refresh();
+	scanw("%s", str);
+	refresh();
 }
 
 void game_end() {
