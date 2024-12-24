@@ -3,5 +3,5 @@
 .obj
 .lib
 .out
-.~
+*~
 .un~
