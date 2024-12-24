@@ -1,6 +1,6 @@
-.exe
-.o
-.obj
-.lib
-.out
+*.exe
+*.o
+*.obj
+*.lib
+*.out
 *~
